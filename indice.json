@@ -1,0 +1,70 @@
+{
+  "versione": 1,
+  "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
+  "controllato_il": "2026-10-13T22:24:05Z",
+  "listini": [
+    {
+      "nome": "altri_tabacchi",
+      "etichetta": "Altri tabacchi da fumo",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2.1+LIST+ALTRI.pdf/75a11193-eaaa-bd6e-f754-1def21fc17b2?t=1786516398745",
+      "file": "pdf/altri_tabacchi.pdf",
+      "sha256": "290b6e4c53ac23ac701eba09893191fd55bab671fe12d5754c7c5bca514067f8",
+      "byte": 372999,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "fiuto_mastico",
+      "etichetta": "Fiuto e mastico",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2.2+LIST+FIUTO+MASTICO.pdf/39984a1d-f097-a966-e242-d52cb9fdd28e?t=1786516278793",
+      "file": "pdf/fiuto_mastico.pdf",
+      "sha256": "94184f6782b88d0f832d035028d3819cd5f31f245d361db8f7208dd7baadf29f",
+      "byte": 115608,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "inalazione",
+      "etichetta": "Prodotti da inalazione senza combustione",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/Listino+prodotti+da+inalazione+senza+combustione+08102026.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1791440248149",
+      "file": "pdf/inalazione.pdf",
+      "sha256": "215b9bcca04bb4aebee6f1323ba2be268fa64e8c15304bceb764a35cf8e75ce5",
+      "byte": 181002,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "sigarette",
+      "etichetta": "Sigarette",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1-LIST+SIGARETTE.pdf/42c96880-1905-fbb1-7d19-caf6a7bcc57a?t=1780641495560",
+      "file": "pdf/sigarette.pdf",
+      "sha256": "e28da376c3631ddbb3f3124b625646180ad6613f978bd38d526a2bcab1a1c0fc",
+      "byte": 250590,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "sigaretti",
+      "etichetta": "Sigaretti",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2.2-LIST+SIGARETTI.pdf/5effe15a-5155-0da3-bf0b-356abaa63b5e?t=1782454391460",
+      "file": "pdf/sigaretti.pdf",
+      "sha256": "36453519d271c98037eb06557e1e90fda9eef3748be1fc04227a6029c6990354",
+      "byte": 258416,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "sigari",
+      "etichetta": "Sigari",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3+LIST+SIGARI+09102026.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1791529158425",
+      "file": "pdf/sigari.pdf",
+      "sha256": "36eb4808816c25e0682b8ad57e966d54e6dc7c67f0fcb5ab3259f7cc067c602a",
+      "byte": 1649027,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    },
+    {
+      "nome": "trinciati",
+      "etichetta": "Trinciati per sigaretta",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3+LIST+RYO.pdf/3df140a5-7d0b-adb8-d136-3997f8e49aa3?t=1789107306949",
+      "file": "pdf/trinciati.pdf",
+      "sha256": "ecba4d7caf82a2ef136c398d294bc4be09c6b9fc4acdb51232953d578dad5da1",
+      "byte": 164817,
+      "cambiato_il": "2026-10-13T22:24:05Z"
+    }
+  ]
+}
