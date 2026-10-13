@@ -1,0 +1,40 @@
+# Controlla ogni giorno i listini pubblicati dall'ADM e aggiorna la copia in questo contenitore.
+# Se lo script si ferma con un errore (pagina dell'ADM cambiata), GitHub manda un'email al proprietario.
+name: Aggiorna i listini ADM
+
+on:
+  schedule:
+    # ore in UTC: le 5:10 e le 13:10 italiane d'inverno (un'ora dopo d'estate)
+    - cron: "10 4 * * *"
+    - cron: "10 12 * * *"
+  workflow_dispatch: {}   # pulsante "Run workflow" per lanciarlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-listini
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scarica i listini
+        run: python aggiorna.py
+      - name: Salva le novità
+        run: |
+          git config user.name "listini-adm"
+          git config user.email "listini-adm@users.noreply.github.com"
+          git add indice.json pdf
+          if git diff --cached --quiet; then
+            echo "Niente di nuovo"
+          else
+            git commit -m "Listini ADM: controllo del $(date -u +%Y-%m-%d)"
+            git push
+          fi
