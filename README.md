@@ -7,6 +7,8 @@ giorno.
 - `indice.json` — elenco dei listini: nome, indirizzo sul sito ADM, impronta SHA-256, dimensione, data dell'ultimo
   cambio.
 - `pdf/` — i PDF, uguali byte per byte a quelli del sito ADM.
+- `determinazioni/` — le ultime determinazioni ADM di variazione dei prezzi (PDF ufficiali), che spesso escono prima
+  dei listini completi aggiornati.
 - `aggiorna.py` — lo script che fa il controllo. Non legge il contenuto dei PDF.
 - `.github/workflows/aggiorna.yml` — l'esecuzione automatica.
 
