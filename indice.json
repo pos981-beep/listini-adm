@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-10-14T04:40:31Z",
+  "controllato_il": "2026-10-14T12:43:12Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -24,11 +24,11 @@
     {
       "nome": "inalazione",
       "etichetta": "Prodotti da inalazione senza combustione",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/Listino+prodotti+da+inalazione+senza+combustione+08102026.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1791440248149",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.3+LIST+HTP.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1791963086163",
       "file": "pdf/inalazione.pdf",
-      "sha256": "215b9bcca04bb4aebee6f1323ba2be268fa64e8c15304bceb764a35cf8e75ce5",
-      "byte": 181002,
-      "cambiato_il": "2026-10-13T22:24:05Z"
+      "sha256": "3f90230b37bb18b621da6e74d5369038b8f5f682f602ccbc12136b42708a434b",
+      "byte": 170346,
+      "cambiato_il": "2026-10-14T12:43:12Z"
     },
     {
       "nome": "sigarette",
@@ -51,23 +51,33 @@
     {
       "nome": "sigari",
       "etichetta": "Sigari",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3+LIST+SIGARI+09102026.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1791529158425",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1+LIST+SIGARI.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1791963049017",
       "file": "pdf/sigari.pdf",
-      "sha256": "36eb4808816c25e0682b8ad57e966d54e6dc7c67f0fcb5ab3259f7cc067c602a",
-      "byte": 1649027,
-      "cambiato_il": "2026-10-13T22:24:05Z"
+      "sha256": "5719e1d69bcc5180d1714e3fb379b9fba0aa6443f3290159d030c6fcecbb262c",
+      "byte": 618841,
+      "cambiato_il": "2026-10-14T12:43:12Z"
     },
     {
       "nome": "trinciati",
       "etichetta": "Trinciati per sigaretta",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3+LIST+RYO.pdf/3df140a5-7d0b-adb8-d136-3997f8e49aa3?t=1789107306949",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.2+LIST+RYO.pdf/3df140a5-7d0b-adb8-d136-3997f8e49aa3?t=1791963065075",
       "file": "pdf/trinciati.pdf",
-      "sha256": "ecba4d7caf82a2ef136c398d294bc4be09c6b9fc4acdb51232953d578dad5da1",
-      "byte": 164817,
-      "cambiato_il": "2026-10-13T22:24:05Z"
+      "sha256": "1b2efb2376c623ac9676b23148059fad669b110cd5db1b4223149376c4ef16fd",
+      "byte": 140892,
+      "cambiato_il": "2026-10-14T12:43:12Z"
     }
   ],
   "determinazioni": [
+    {
+      "nome": "determinazione_658556",
+      "etichetta": "Variazione prezzi del 12/10/2026 (13 marche)",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/242317381/DETERMINA_658556.12-10-2026.pdf/b498a0ec-2617-2062-edb6-254ce036148f?t=1791961897273",
+      "data": "2026-10-12",
+      "file": "determinazioni/658556.pdf",
+      "sha256": "21608fa39ae26f75b81c1d894c614b5ec782b77858a2c7a00351aba5c6a02765",
+      "byte": 322573,
+      "cambiato_il": "2026-10-14T12:43:12Z"
+    },
     {
       "nome": "determinazione_649402",
       "etichetta": "Variazione prezzi del 05/10/2026 (17 marche)",
