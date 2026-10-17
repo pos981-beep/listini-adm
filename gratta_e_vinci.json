@@ -1,0 +1,508 @@
+{
+  "versione": 1,
+  "fonte": "https://www.adm.gov.it/portale/monopoli/giochi/lotterie/lotterie_istantanee/lot_ist_attive",
+  "controllato_il": "2026-10-17T16:49:32Z",
+  "cambiato_il": "2026-10-17T16:49:32Z",
+  "giochi": [
+    {
+      "nome": "Fortuna in tasca",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/fortuna-in-tasca",
+      "prezzo": 50,
+      "codici": [
+        "3106"
+      ]
+    },
+    {
+      "nome": "Ping Pong",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/ping-pong",
+      "prezzo": 50,
+      "codici": []
+    },
+    {
+      "nome": "Buondì",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/buond-c3-ac",
+      "prezzo": 100,
+      "codici": [
+        "3113"
+      ]
+    },
+    {
+      "nome": "Monetine Fortunate",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/monetine-fortunate",
+      "prezzo": 100,
+      "codici": [
+        "3025",
+        "3042"
+      ]
+    },
+    {
+      "nome": "Fai Scopa Bonus",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/fai-scopa-bonus",
+      "prezzo": 200,
+      "codici": [
+        "3121"
+      ]
+    },
+    {
+      "nome": "Fai Scopa New",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/fai-scopa-new",
+      "prezzo": 200,
+      "codici": [
+        "3050",
+        "3014"
+      ]
+    },
+    {
+      "nome": "Tombola MINI",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/tombola-mini",
+      "prezzo": 200,
+      "codici": [
+        "3090"
+      ]
+    },
+    {
+      "nome": "Tombola Mini",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/-tombola-mini-",
+      "prezzo": 200,
+      "codici": [
+        "3107",
+        "3090"
+      ]
+    },
+    {
+      "nome": "Un'Estate al Mare mini",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/un-estate-al-mare-mini",
+      "prezzo": 200,
+      "codici": [
+        "3102"
+      ]
+    },
+    {
+      "nome": "Viva l’Estate Mini",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/viva-l-estate-mini",
+      "prezzo": 200,
+      "codici": [
+        "3118"
+      ]
+    },
+    {
+      "nome": "Crucijolly",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/crucijolly",
+      "prezzo": 300,
+      "codici": [
+        "3058",
+        "3055"
+      ]
+    },
+    {
+      "nome": "Doppia Sfida Small",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/doppia-sfida-small",
+      "prezzo": 300,
+      "codici": [
+        "3080"
+      ]
+    },
+    {
+      "nome": "Numeri Fortunati",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/numeri-fortunati",
+      "prezzo": 300,
+      "codici": [
+        "3085",
+        "3030",
+        "3003"
+      ]
+    },
+    {
+      "nome": "Numeri Fortunati New",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/numeri-fortunati-new-1",
+      "prezzo": 300,
+      "codici": [
+        "3101"
+      ]
+    },
+    {
+      "nome": "Nuovo 15X",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/nuovo-15x",
+      "prezzo": 300,
+      "codici": [
+        "3077"
+      ]
+    },
+    {
+      "nome": "20X NEW",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/20x-new",
+      "prezzo": 500,
+      "codici": [
+        "3115"
+      ]
+    },
+    {
+      "nome": "500 Special Turbo",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/500-special-turbo",
+      "prezzo": 500,
+      "codici": [
+        "3094"
+      ]
+    },
+    {
+      "nome": "COLOR PUZZLE 5€",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/color-puzzle-5-e2-82-ac",
+      "prezzo": 500,
+      "codici": [
+        "3322"
+      ]
+    },
+    {
+      "nome": "Doppia Sfida Classic",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/doppia-sfida-classic",
+      "prezzo": 500,
+      "codici": [
+        "3081"
+      ]
+    },
+    {
+      "nome": "DUAL PLAY",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/dual-play",
+      "prezzo": 500,
+      "codici": [
+        "3324"
+      ]
+    },
+    {
+      "nome": "Il Miliardario",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-miliardario",
+      "prezzo": 500,
+      "codici": [
+        "3015",
+        "3035"
+      ]
+    },
+    {
+      "nome": "Il Tris Vincente",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-tris-vincente",
+      "prezzo": 500,
+      "codici": []
+    },
+    {
+      "nome": "Il Turista per Sempre",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-turista-per-sempre",
+      "prezzo": 500,
+      "codici": [
+        "3088"
+      ]
+    },
+    {
+      "nome": "La Star",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/la-star",
+      "prezzo": 500,
+      "codici": [
+        "3070"
+      ]
+    },
+    {
+      "nome": "Miliardario New",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/miliardario-new-1",
+      "prezzo": 500,
+      "codici": [
+        "3098"
+      ]
+    },
+    {
+      "nome": "New Tutto per Tutto",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/new-tutto-per-tutto",
+      "prezzo": 500,
+      "codici": [
+        "3072"
+      ]
+    },
+    {
+      "nome": "Numerissimi",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/numerissimi",
+      "prezzo": 500,
+      "codici": [
+        "3311",
+        "3319"
+      ]
+    },
+    {
+      "nome": "Nuovo 20X",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/nuovo-20x",
+      "prezzo": 500,
+      "codici": [
+        "3318"
+      ]
+    },
+    {
+      "nome": "POP 5€",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/pop-5-e2-82-ac",
+      "prezzo": 500,
+      "codici": [
+        "3321"
+      ]
+    },
+    {
+      "nome": "Speed Cash",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/speed-cash",
+      "prezzo": 500,
+      "codici": [
+        "3040"
+      ]
+    },
+    {
+      "nome": "Tombola Classic",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/tombola-classic",
+      "prezzo": 500,
+      "codici": [
+        "3091"
+      ]
+    },
+    {
+      "nome": "Tombola Classic",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/-tombola-classic-",
+      "prezzo": 500,
+      "codici": [
+        "3108",
+        "3091"
+      ]
+    },
+    {
+      "nome": "Un'Estate al Mare",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/un-estate-al-mare",
+      "prezzo": 500,
+      "codici": [
+        "3103"
+      ]
+    },
+    {
+      "nome": "Viva l’Estate",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/viva-l-estate",
+      "prezzo": 500,
+      "codici": [
+        "3119"
+      ]
+    },
+    {
+      "nome": "50X NEW",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/50x-new",
+      "prezzo": 1000,
+      "codici": [
+        "3116"
+      ]
+    },
+    {
+      "nome": "Casinò Ricco",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/casin%C3%B2-ricco",
+      "prezzo": 1000,
+      "codici": [
+        "3112"
+      ]
+    },
+    {
+      "nome": "COLOR PUZZLE 10€",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/color-puzzle-10%E2%82%AC",
+      "prezzo": 1000,
+      "codici": [
+        "3323"
+      ]
+    },
+    {
+      "nome": "Doppia Sfida Super",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/doppia-sfida-super",
+      "prezzo": 1000,
+      "codici": [
+        "3082"
+      ]
+    },
+    {
+      "nome": "Il Miliardario Mega",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-miliardario-mega",
+      "prezzo": 1000,
+      "codici": [
+        "3016"
+      ]
+    },
+    {
+      "nome": "Mega Miliardario New",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/mega-miliardario-new",
+      "prezzo": 1000,
+      "codici": [
+        "3099"
+      ]
+    },
+    {
+      "nome": "New Bonus Tutto per Tutto",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/new-bonus-tutto-per-tutto",
+      "prezzo": 1000,
+      "codici": [
+        "3073"
+      ]
+    },
+    {
+      "nome": "Nuovo 50X",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/nuovo-50x",
+      "prezzo": 1000,
+      "codici": [
+        "3304"
+      ]
+    },
+    {
+      "nome": "Premi Stellari",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/premi-stellari",
+      "prezzo": 1000,
+      "codici": [
+        "3079"
+      ]
+    },
+    {
+      "nome": "Regina di Cuori",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/regina-di-cuori",
+      "prezzo": 1000,
+      "codici": [
+        "3097"
+      ]
+    },
+    {
+      "nome": "Sfinge d'oro",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/sfinge-d-oro",
+      "prezzo": 1000,
+      "codici": [
+        "3043"
+      ]
+    },
+    {
+      "nome": "Sotto il Sole",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/sotto-il-sole",
+      "prezzo": 1000,
+      "codici": []
+    },
+    {
+      "nome": "Super Numerissimi",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/super-numerissimi",
+      "prezzo": 1000,
+      "codici": [
+        "3063"
+      ]
+    },
+    {
+      "nome": "Tombola SUPER",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/tombola-super",
+      "prezzo": 1000,
+      "codici": [
+        "3092"
+      ]
+    },
+    {
+      "nome": "Tombola Super",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/-tombola-super-",
+      "prezzo": 1000,
+      "codici": [
+        "3109",
+        "3092"
+      ]
+    },
+    {
+      "nome": "Un'Estate al Mare Super",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/un-estate-al-mare-super",
+      "prezzo": 1000,
+      "codici": [
+        "3104"
+      ]
+    },
+    {
+      "nome": "Viva l’Estate Super",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/viva-l-estate-super",
+      "prezzo": 1000,
+      "codici": [
+        "3120"
+      ]
+    },
+    {
+      "nome": "€50 & €100",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/-e2-82-ac50-e2-82-ac100",
+      "prezzo": 1000,
+      "codici": [
+        "3089"
+      ]
+    },
+    {
+      "nome": "La Grande Occasione",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/la-grande-occasione",
+      "prezzo": 1500,
+      "codici": [
+        "3317"
+      ]
+    },
+    {
+      "nome": "100X NEW",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/100x-new",
+      "prezzo": 2000,
+      "codici": [
+        "3117"
+      ]
+    },
+    {
+      "nome": "Il Miliardario Maxi",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-miliardario-maxi",
+      "prezzo": 2000,
+      "codici": [
+        "3017",
+        "3087",
+        "3037"
+      ]
+    },
+    {
+      "nome": "Maxi Miliardario New",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/maxi-miliardario-new",
+      "prezzo": 2000,
+      "codici": [
+        "3100"
+      ]
+    },
+    {
+      "nome": "New Extra TUTTO PER TUTTO",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/new-extra-tutto-per-tutto",
+      "prezzo": 2000,
+      "codici": [
+        "3093"
+      ]
+    },
+    {
+      "nome": "Nuovo 100X",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/nuovo-100x",
+      "prezzo": 2000,
+      "codici": []
+    },
+    {
+      "nome": "Ultra Numerissimi",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/ultra-numerissimi",
+      "prezzo": 2000,
+      "codici": [
+        "3320"
+      ]
+    },
+    {
+      "nome": "Edizione Speciale VIP",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/edizione-speciale-vip",
+      "prezzo": 2500,
+      "codici": [
+        "3105"
+      ]
+    },
+    {
+      "nome": "Super Gold",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/super-gold",
+      "prezzo": 2500,
+      "codici": [
+        "3084"
+      ]
+    },
+    {
+      "nome": "Milioni di Diamanti",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/milioni-di-diamanti",
+      "prezzo": 3000,
+      "codici": [
+        "3110"
+      ]
+    }
+  ]
+}

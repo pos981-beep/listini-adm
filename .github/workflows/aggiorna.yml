@@ -1,6 +1,6 @@
 # Controlla ogni giorno i listini pubblicati dall'ADM e aggiorna la copia in questo contenitore.
 # Se lo script si ferma con un errore (pagina dell'ADM cambiata), GitHub manda un'email al proprietario.
-name: Aggiorna i listini ADM
+name: Aggiorna i listini ADM e i Gratta e Vinci
 
 on:
   schedule:
@@ -27,12 +27,18 @@ jobs:
           python-version: "3.12"
       - name: Scarica i listini
         run: python aggiorna.py
+      # Gratta e Vinci attivi (17/10/2026): se l'ADM cambia la pagina dei giochi, i listini si salvano lo stesso
+      - name: Elenco dei Gratta e Vinci
+        id: giochi
+        continue-on-error: true
+        run: python gratta_e_vinci.py
       - name: Salva le novità
         run: |
           git config user.name "listini-adm"
           git config user.email "listini-adm@users.noreply.github.com"
           git add indice.json pdf
           if [ -d determinazioni ]; then git add determinazioni; fi
+          if [ -f gratta_e_vinci.json ]; then git add gratta_e_vinci.json; fi
           if git diff --cached --quiet; then
             echo "Niente di nuovo"
           else
