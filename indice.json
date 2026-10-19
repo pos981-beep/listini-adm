@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-10-19T04:39:41Z",
+  "controllato_il": "2026-10-19T12:45:11Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -51,11 +51,11 @@
     {
       "nome": "sigari",
       "etichetta": "Sigari",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1+LIST+SIGARI.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1791963049017",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2.1+LIST+SIGARI.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1792407883110",
       "file": "pdf/sigari.pdf",
-      "sha256": "5719e1d69bcc5180d1714e3fb379b9fba0aa6443f3290159d030c6fcecbb262c",
-      "byte": 618841,
-      "cambiato_il": "2026-10-14T12:43:12Z"
+      "sha256": "4238a516115902e0febcae4964dd2af4296117ee5ff445ca259d481dd901fdad",
+      "byte": 1571106,
+      "cambiato_il": "2026-10-19T12:45:11Z"
     },
     {
       "nome": "trinciati",
