@@ -1,8 +1,8 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/giochi/lotterie/lotterie_istantanee/lot_ist_attive",
-  "controllato_il": "2026-10-28T04:51:06Z",
-  "cambiato_il": "2026-10-17T16:49:32Z",
+  "controllato_il": "2026-10-28T12:56:50Z",
+  "cambiato_il": "2026-10-28T12:56:50Z",
   "giochi": [
     {
       "nome": "Fortuna in tasca",
@@ -169,6 +169,14 @@
       ]
     },
     {
+      "nome": "Giochi di Natale",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/giochi-di-natale",
+      "prezzo": 500,
+      "codici": [
+        "3123"
+      ]
+    },
+    {
       "nome": "Il Miliardario",
       "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-miliardario",
       "prezzo": 500,
@@ -314,6 +322,14 @@
       ]
     },
     {
+      "nome": "Giochi di Natale Super",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/giochi-di-natale-super",
+      "prezzo": 1000,
+      "codici": [
+        "3124"
+      ]
+    },
+    {
       "nome": "Il Miliardario Mega",
       "pagina": "https://www.adm.gov.it/portale/web/guest/-/il-miliardario-mega",
       "prezzo": 1000,
@@ -438,6 +454,14 @@
       "prezzo": 2000,
       "codici": [
         "3117"
+      ]
+    },
+    {
+      "nome": "Giochi di Natale Extra",
+      "pagina": "https://www.adm.gov.it/portale/web/guest/-/giochi-di-natale-extra",
+      "prezzo": 2000,
+      "codici": [
+        "3125"
       ]
     },
     {
