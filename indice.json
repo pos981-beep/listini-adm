@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-03T04:57:42Z",
+  "controllato_il": "2026-11-03T12:59:59Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -60,11 +60,11 @@
     {
       "nome": "trinciati",
       "etichetta": "Trinciati per sigaretta",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.2+LIST+RYO.pdf/3df140a5-7d0b-adb8-d136-3997f8e49aa3?t=1791963065075",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2-LIST+TRINCIATO-03-11-2026.pdf/3df140a5-7d0b-adb8-d136-3997f8e49aa3?t=1793691644295",
       "file": "pdf/trinciati.pdf",
-      "sha256": "1b2efb2376c623ac9676b23148059fad669b110cd5db1b4223149376c4ef16fd",
-      "byte": 140892,
-      "cambiato_il": "2026-10-14T12:43:12Z"
+      "sha256": "fa9ac1f31a6a843e863a49a0b3c45f3c5e24511dcfa31909acfe58a0fbb5adf7",
+      "byte": 139985,
+      "cambiato_il": "2026-11-03T12:59:59Z"
     }
   ],
   "determinazioni": [
