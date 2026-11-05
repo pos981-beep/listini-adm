@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-05T05:01:58Z",
+  "controllato_il": "2026-11-05T13:10:41Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -24,11 +24,11 @@
     {
       "nome": "inalazione",
       "etichetta": "Prodotti da inalazione senza combustione",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.3+LIST+HTP.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1791963086163",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2+LIST+HTP+5-11-2026.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1793863117495",
       "file": "pdf/inalazione.pdf",
-      "sha256": "3f90230b37bb18b621da6e74d5369038b8f5f682f602ccbc12136b42708a434b",
-      "byte": 170346,
-      "cambiato_il": "2026-10-14T12:43:12Z"
+      "sha256": "c4e86dad2b5e39ece7cc6a8813782099103ccfcec8c33191c83ba79a84e89c54",
+      "byte": 181703,
+      "cambiato_il": "2026-11-05T13:10:41Z"
     },
     {
       "nome": "sigarette",
