@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-13T05:01:55Z",
+  "controllato_il": "2026-11-13T13:08:26Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -51,11 +51,11 @@
     {
       "nome": "sigari",
       "etichetta": "Sigari",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2.1-LIST+SIGARI-10-11-2026.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1794319940808",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1-LIST+SIGARI-10-11-2026.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1794555602372",
       "file": "pdf/sigari.pdf",
-      "sha256": "936d0d92172059f7d32689ee691cb6f219dd45afed314e58a60668996253ca85",
-      "byte": 1599079,
-      "cambiato_il": "2026-11-11T05:03:41Z"
+      "sha256": "8d75c95a88fca2697b0f47e36475fbd96b3da0de18acb5c58c8d5efed2f39556",
+      "byte": 1584690,
+      "cambiato_il": "2026-11-13T13:08:26Z"
     },
     {
       "nome": "trinciati",
@@ -68,6 +68,16 @@
     }
   ],
   "determinazioni": [
+    {
+      "nome": "determinazione_702631",
+      "etichetta": "Variazione prezzi del 11/11/2026 (50 marche)",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/242317381/DETERMINA_702631.11-11-2026.pdf/ab71a7e5-5dbd-74e1-acaa-d6bcde552fd9?t=1794555222141",
+      "data": "2026-11-11",
+      "file": "determinazioni/702631.pdf",
+      "sha256": "2a81087e996b88b3f8828dd832100575c10715ac3d667b860153a35d29cc98ec",
+      "byte": 273170,
+      "cambiato_il": "2026-11-13T13:08:26Z"
+    },
     {
       "nome": "determinazione_658556",
       "etichetta": "Variazione prezzi del 12/10/2026 (13 marche)",
