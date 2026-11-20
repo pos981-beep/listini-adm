@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-19T12:56:28Z",
+  "controllato_il": "2026-11-20T12:48:22Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -87,16 +87,6 @@
       "sha256": "21608fa39ae26f75b81c1d894c614b5ec782b77858a2c7a00351aba5c6a02765",
       "byte": 322573,
       "cambiato_il": "2026-10-14T12:43:12Z"
-    },
-    {
-      "nome": "determinazione_649402",
-      "etichetta": "Variazione prezzi del 05/10/2026 (17 marche)",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/242317381/649402.05-10-2026_DETERMINA+X+PUB.pdf/c3c8cae3-2faa-1603-1c7f-7cf84655933c?t=1791354354605",
-      "data": "2026-10-05",
-      "file": "determinazioni/649402.pdf",
-      "sha256": "8f8f664d0781ca5965f3a41f349a73309d230839d211bab1594277bb58a7f36e",
-      "byte": 277474,
-      "cambiato_il": "2026-10-13T23:29:30Z"
     }
   ]
 }
