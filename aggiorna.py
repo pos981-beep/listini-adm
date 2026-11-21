@@ -24,6 +24,7 @@ import html
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -54,9 +55,18 @@ COLLEGAMENTO = re.compile(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', re.S | re.I)
 
 
 def scarica(indirizzo: str) -> bytes:
-    richiesta = urllib.request.Request(indirizzo, headers=INTESTAZIONI)
-    with urllib.request.urlopen(richiesta, timeout=60) as risposta:
-        return risposta.read()
+    # tre tentativi a distanza di qualche secondo (21/11/2026): il sito dell'ADM ogni tanto non risponde per un momento
+    # e un solo intoppo faceva fallire il giro (con l'email di errore); il giro dopo andava sempre bene
+    for tentativo in range(3):
+        try:
+            richiesta = urllib.request.Request(indirizzo, headers=INTESTAZIONI)
+            with urllib.request.urlopen(richiesta, timeout=60) as risposta:
+                return risposta.read()
+        except Exception:  # noqa: BLE001
+            if tentativo == 2:
+                raise
+            time.sleep(15 * (tentativo + 1))
+    raise RuntimeError("non raggiungibile")
 
 
 def listini_nella_pagina(pagina: str) -> list[dict]:
