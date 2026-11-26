@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-25T14:14:21Z",
+  "controllato_il": "2026-11-26T13:50:03Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -23,21 +23,21 @@
     },
     {
       "nome": "inalazione",
-      "etichetta": "Prodotti da inalazione senza combustione",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/2+LIST+HTP+5-11-2026.pdf/ceb7aaf5-54e3-fe29-4736-a32658424ff0?t=1793863117495",
+      "etichetta": "Tabacchi da inalazione senza combustione e prodotti a essi assimilati",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.3-LIST+HTP.pdf/77a16327-ce11-77f4-6d83-6fd64183a74b?t=1795684247963",
       "file": "pdf/inalazione.pdf",
-      "sha256": "c4e86dad2b5e39ece7cc6a8813782099103ccfcec8c33191c83ba79a84e89c54",
+      "sha256": "7b4e9fe3d50891bc9d102b0ab83573fc7e50cf6f1494b766b1995cb42250dec8",
       "byte": 181703,
-      "cambiato_il": "2026-11-05T13:10:41Z"
+      "cambiato_il": "2026-11-26T13:50:03Z"
     },
     {
       "nome": "sigarette",
       "etichetta": "Sigarette",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1-LIST+SIGARETTE.pdf/42c96880-1905-fbb1-7d19-caf6a7bcc57a?t=1780641495560",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1-LIST+SIGARETTE+%281%29.pdf/85acc3ff-eebf-c76f-ad2f-62b94e05a201?t=1795679991585",
       "file": "pdf/sigarette.pdf",
-      "sha256": "e28da376c3631ddbb3f3124b625646180ad6613f978bd38d526a2bcab1a1c0fc",
-      "byte": 250590,
-      "cambiato_il": "2026-10-13T22:24:05Z"
+      "sha256": "0383e2a3beccbbed4c6d6b4d5a7201adc023a2981421be34068fec6a58a53f2d",
+      "byte": 243718,
+      "cambiato_il": "2026-11-26T13:50:03Z"
     },
     {
       "nome": "sigaretti",
@@ -51,11 +51,11 @@
     {
       "nome": "sigari",
       "etichetta": "Sigari",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.1-LIST+SIGARI-10-11-2026.pdf/b42f5a7c-c376-cabc-16d9-c150dc0dea12?t=1794555602372",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/1106899/3.2+LIST+SIGARI.pdf/7f9e21b4-cc67-5c11-91af-e62f4a086f2e?t=1795680034348",
       "file": "pdf/sigari.pdf",
-      "sha256": "8d75c95a88fca2697b0f47e36475fbd96b3da0de18acb5c58c8d5efed2f39556",
-      "byte": 1584690,
-      "cambiato_il": "2026-11-13T13:08:26Z"
+      "sha256": "a81be63176d948431b295408ad7a92d5142a99294b126e90ff4c2280c780077e",
+      "byte": 1583686,
+      "cambiato_il": "2026-11-26T13:50:03Z"
     },
     {
       "nome": "trinciati",
@@ -68,6 +68,16 @@
     }
   ],
   "determinazioni": [
+    {
+      "nome": "determinazione_720400",
+      "etichetta": "Variazione prezzi del 24/11/2026 (25 marche)",
+      "origine": "https://www.adm.gov.it/portale/documents/20182/242317381/DETERMINA_720400.24-11-2026.pdf/75206df7-cd53-24a4-f96d-b9358b4cb832?t=1795679520023",
+      "data": "2026-11-24",
+      "file": "determinazioni/720400.pdf",
+      "sha256": "64901cbaf56e15ec4d2388332889b91acce5dfa7835c2f2ff8a1df7f2a43146e",
+      "byte": 297633,
+      "cambiato_il": "2026-11-26T13:50:03Z"
+    },
     {
       "nome": "determinazione_702631",
       "etichetta": "Variazione prezzi del 11/11/2026 (50 marche)",
