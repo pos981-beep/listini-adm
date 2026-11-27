@@ -1,7 +1,7 @@
 {
   "versione": 1,
   "fonte": "https://www.adm.gov.it/portale/monopoli/tabacchi/prezzi/prezzi_pubblico",
-  "controllato_il": "2026-11-26T13:50:03Z",
+  "controllato_il": "2026-11-27T13:47:10Z",
   "listini": [
     {
       "nome": "altri_tabacchi",
@@ -87,16 +87,6 @@
       "sha256": "2a81087e996b88b3f8828dd832100575c10715ac3d667b860153a35d29cc98ec",
       "byte": 273170,
       "cambiato_il": "2026-11-13T13:08:26Z"
-    },
-    {
-      "nome": "determinazione_658556",
-      "etichetta": "Variazione prezzi del 12/10/2026 (13 marche)",
-      "origine": "https://www.adm.gov.it/portale/documents/20182/242317381/DETERMINA_658556.12-10-2026.pdf/b498a0ec-2617-2062-edb6-254ce036148f?t=1791961897273",
-      "data": "2026-10-12",
-      "file": "determinazioni/658556.pdf",
-      "sha256": "21608fa39ae26f75b81c1d894c614b5ec782b77858a2c7a00351aba5c6a02765",
-      "byte": 322573,
-      "cambiato_il": "2026-10-14T12:43:12Z"
     }
   ]
 }
